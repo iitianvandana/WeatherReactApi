@@ -1,6 +1,6 @@
 {
   "name": "weather-web",
-  "homepage": "https://iitianvandana.github.io/weatherReact/",
+  "homepage": "https://iitianvandana.github.io/WeatherReactApi/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
